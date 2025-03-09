@@ -1,0 +1,3000 @@
+==========================================
+= cycle 1
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 0
+serv_val= 0
+out_eq_in= 0
+type_none= 1
+serv_type= 0
+p= 0
+==========================================
+= cycle 2
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 0
+serv_val= 0
+out_eq_in= 0
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 3
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 22
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 4
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 28
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 5
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 1
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 28
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 6
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 2
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 18
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 7
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 2
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 8
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 8
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 0
+coinOutNTD_5= 1
+coinOutNTD_10= 2
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 8
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 9
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 0
+coinOutNTD_5= 1
+coinOutNTD_10= 2
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 3
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 10
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 1
+coinOutNTD_5= 1
+coinOutNTD_10= 2
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 3
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 11
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 2
+coinOutNTD_5= 1
+coinOutNTD_10= 2
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 2
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 12
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 1
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 13
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 50
+serv_val= 50
+out_eq_in= 1
+type_none= 1
+serv_type= 2
+p= 0
+==========================================
+= cycle 14
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 50
+serv_val= 0
+out_eq_in= 0
+type_none= 1
+serv_type= 2
+p= 0
+==========================================
+= cycle 15
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 50
+serv_val= 0
+out_eq_in= 0
+type_none= 1
+serv_type= 2
+p= 0
+==========================================
+= cycle 16
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 50
+serv_val= 0
+out_eq_in= 0
+type_none= 1
+serv_type= 2
+p= 0
+==========================================
+= cycle 17
+==========================================
+serviceTypeOut= 0
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 50
+serv_val= 0
+out_eq_in= 0
+type_none= 1
+serv_type= 2
+p= 0
+==========================================
+= cycle 18
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 0
+type_none= 1
+serv_type= 0
+p= 0
+==========================================
+= cycle 19
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 20
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 21
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 22
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 23
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 24
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 25
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 26
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 27
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 28
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 29
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 30
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 31
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 32
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 33
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 2
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 34
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 2
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 15
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 35
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 2
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 15
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 36
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 2
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 1
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 15
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 37
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 2
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 1
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 5
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 38
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 2
+coinOutNTD_1= 0
+coinOutNTD_5= 1
+coinOutNTD_10= 1
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 5
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 39
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 2
+coinOutNTD_1= 0
+coinOutNTD_5= 1
+coinOutNTD_10= 1
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 40
+==========================================
+serviceTypeOut= 0
+itemTypeOut= 2
+coinOutNTD_1= 0
+coinOutNTD_5= 1
+coinOutNTD_10= 1
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 41
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 0
+serv_type= 0
+p= 0
+==========================================
+= cycle 42
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 43
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 44
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 45
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 46
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 47
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 48
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 49
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 50
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 51
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 52
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 53
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 54
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 55
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 56
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 57
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 58
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 59
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 60
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 61
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 62
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 63
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 64
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 65
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 66
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 67
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 68
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 69
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 70
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 71
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 72
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 73
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 74
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 75
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 76
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 77
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 78
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 79
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 80
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 81
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 82
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 83
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 84
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 85
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 86
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 87
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 88
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 89
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 90
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 91
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 92
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 93
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 94
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 95
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 30
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 96
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 22
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 97
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 28
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 98
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 1
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 28
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 99
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 2
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 18
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 100
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 2
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 8
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 101
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 0
+coinOutNTD_5= 1
+coinOutNTD_10= 2
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 8
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 102
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 0
+coinOutNTD_5= 1
+coinOutNTD_10= 2
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 3
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 103
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 1
+coinOutNTD_5= 1
+coinOutNTD_10= 2
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 3
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 104
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 2
+coinOutNTD_5= 1
+coinOutNTD_10= 2
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 2
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 105
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 1
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 106
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 50
+serv_val= 50
+out_eq_in= 1
+type_none= 1
+serv_type= 2
+p= 0
+==========================================
+= cycle 107
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 50
+serv_val= 0
+out_eq_in= 0
+type_none= 1
+serv_type= 2
+p= 0
+==========================================
+= cycle 108
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 50
+serv_val= 0
+out_eq_in= 0
+type_none= 1
+serv_type= 2
+p= 0
+==========================================
+= cycle 109
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 50
+serv_val= 0
+out_eq_in= 0
+type_none= 1
+serv_type= 2
+p= 0
+==========================================
+= cycle 110
+==========================================
+serviceTypeOut= 0
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 50
+serv_val= 0
+out_eq_in= 0
+type_none= 1
+serv_type= 2
+p= 0
+==========================================
+= cycle 111
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 0
+type_none= 1
+serv_type= 0
+p= 0
+==========================================
+= cycle 112
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 113
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 114
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 115
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 116
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 117
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 118
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 119
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 120
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 121
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 122
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 123
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 124
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 125
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 126
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 2
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 50
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 127
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 2
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 15
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 128
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 2
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 130
+serv_val= 115
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 129
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 2
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 2
+in_val= 130
+serv_val= 65
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 130
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 2
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 2
+in_val= 130
+serv_val= 15
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 131
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 2
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 1
+coinOutNTD_50= 2
+in_val= 130
+serv_val= 15
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 132
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 2
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 1
+coinOutNTD_50= 2
+in_val= 130
+serv_val= 5
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 133
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 2
+coinOutNTD_1= 0
+coinOutNTD_5= 1
+coinOutNTD_10= 1
+coinOutNTD_50= 2
+in_val= 130
+serv_val= 5
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 134
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 2
+coinOutNTD_1= 0
+coinOutNTD_5= 1
+coinOutNTD_10= 1
+coinOutNTD_50= 2
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 135
+==========================================
+serviceTypeOut= 0
+itemTypeOut= 2
+coinOutNTD_1= 0
+coinOutNTD_5= 1
+coinOutNTD_10= 1
+coinOutNTD_50= 2
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 136
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 0
+serv_type= 0
+p= 0
+==========================================
+= cycle 137
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 138
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 139
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 140
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 141
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 142
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 143
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 144
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 145
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 146
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 147
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 148
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 149
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 150
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 151
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 152
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 153
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 154
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 155
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 156
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 157
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 3
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 130
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 158
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 22
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 159
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 7
+out_eq_in= 1
+type_none= 1
+serv_type= 2
+p= 0
+==========================================
+= cycle 160
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 7
+out_eq_in= 1
+type_none= 1
+serv_type= 2
+p= 0
+==========================================
+= cycle 161
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 1
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 7
+out_eq_in= 1
+type_none= 1
+serv_type= 2
+p= 0
+==========================================
+= cycle 162
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 1
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 2
+out_eq_in= 1
+type_none= 1
+serv_type= 2
+p= 0
+==========================================
+= cycle 163
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 0
+coinOutNTD_1= 1
+coinOutNTD_5= 1
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 2
+out_eq_in= 1
+type_none= 1
+serv_type= 2
+p= 0
+==========================================
+= cycle 164
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 0
+coinOutNTD_1= 2
+coinOutNTD_5= 1
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 1
+out_eq_in= 1
+type_none= 1
+serv_type= 2
+p= 0
+==========================================
+= cycle 165
+==========================================
+serviceTypeOut= 0
+itemTypeOut= 0
+coinOutNTD_1= 2
+coinOutNTD_5= 1
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 0
+type_none= 1
+serv_type= 2
+p= 0
+==========================================
+= cycle 166
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 0
+type_none= 1
+serv_type= 0
+p= 0
+==========================================
+= cycle 167
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 168
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 169
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 170
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 171
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 172
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 173
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 174
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 175
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 176
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 177
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 178
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 179
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 180
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 181
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 182
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 183
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 184
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 185
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 186
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 187
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 188
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 1
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 7
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
+==========================================
+= cycle 189
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 1
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 62
+serv_val= 8
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 190
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 1
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 62
+serv_val= 54
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 191
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 1
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 62
+serv_val= 4
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 192
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 1
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 62
+serv_val= 4
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 193
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 1
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 62
+serv_val= 4
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 194
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 1
+coinOutNTD_1= 1
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 62
+serv_val= 4
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 195
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 1
+coinOutNTD_1= 2
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 62
+serv_val= 3
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 196
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 1
+coinOutNTD_1= 3
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 62
+serv_val= 2
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 197
+==========================================
+serviceTypeOut= 2
+itemTypeOut= 1
+coinOutNTD_1= 4
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 62
+serv_val= 1
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 198
+==========================================
+serviceTypeOut= 0
+itemTypeOut= 1
+coinOutNTD_1= 4
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 1
+in_val= 62
+serv_val= 0
+out_eq_in= 1
+type_none= 0
+serv_type= 2
+p= 0
+==========================================
+= cycle 199
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 62
+serv_val= 0
+out_eq_in= 1
+type_none= 0
+serv_type= 0
+p= 0
+==========================================
+= cycle 200
+==========================================
+serviceTypeOut= 1
+itemTypeOut= 0
+coinOutNTD_1= 0
+coinOutNTD_5= 0
+coinOutNTD_10= 0
+coinOutNTD_50= 0
+in_val= 62
+serv_val= 0
+out_eq_in= 1
+type_none= 1
+serv_type= 1
+p= 0
